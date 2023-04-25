@@ -1,0 +1,12 @@
+{
+  "name": "img-url-checker",
+  "version": "0.0.1",
+  "description": "Ability to check the presence of images on links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kimminwoo93",
+  "license": "ISC"
+}
